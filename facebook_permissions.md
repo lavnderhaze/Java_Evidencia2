@@ -2,18 +2,28 @@
 
 - **`pages_events`**: Permite que su aplicación registre eventos en nombre de las páginas de Facebook administradas por los usuarios de su aplicación.
 
-- **`pages_manage_ads`**: :contentReference[oaicite:26]{index=26}&#8203;:contentReference[oaicite:27]{index=27}
+- **`pages_manage_ads`**: Permite administrar anuncios asociados con la página.
 
-- **`pages_manage_cta`**: :contentReference[oaicite:28]{index=28}&#8203;:contentReference[oaicite:29]{index=29}
+- **`pages_manage_cta`**: Permite que la aplicación ejecute funciones de "POST" y "DELETE".
 
-- **`pages_manage_instant_articles`**: :contentReference[oaicite:30]{index=30}&#8203;:contentReference[oaicite:31]{index=31}
+- **`pages_manage_instant_articles`**: Permite que la aplicación sea capaz de administrar artículos instantáneos que gestionen las personas que usan la aplicación.
 
-- **`pages_manage_engagement`**: :contentReference[oaicite:32]{index=32}&#8203;:contentReference[oaicite:33]{index=33}
+- **`pages_manage_engagement`**: Permite que la aplicación cree, edite o elimine comentarios en la página.
 
-- **`pages_manage_metadata`**: :contentReference[oaicite:34]{index=34}&#8203;:contentReference[oaicite:35]{index=35}
+- **`pages_manage_metadata`**: Permite que la aplicación puedad suscribirse a webhooks sobre la actividad que haya en la página, junto con actualizaciones de la configuración.
 
-- **`pages_manage_posts`**: :contentReference[oaicite:36]{index=36}&#8203;:contentReference[oaicite:37]{index=37}
+- **`pages_manage_posts`**: Permite que la aplicación cree, edite o elimine publicaciones en la página.
 
-- **`pages_messaging`**: :contentReference[oaicite:38]{index=38}&#8203;:contentReference[oaicite:39]{index=39}
+- **`pages_messaging`**: Permite que la aplicacción acceda y administre conversaciones en la página de Messenger.
 
-:contentReference[oaicite:40]{index=40}&#8203;:contentReference[oaicite:41]{index=41}
+- **`pages_read_engagement`**: Permite que la aplicación lea todo el contenido que haya sido publicado en la página, junto con otros metadatos y estadísticas de la página.
+
+- **`pages_read_user_content`**: Permite que la aplicación lea el contenido de la página generado por los usuarios.
+
+- **`pages_show_list`**: Permite que la aplicación acceda a la lista de las páginas que administra una persona.
+
+- **`pages_user_gender`**: Permite que la aplicación acceda a datos sobre el sexo del usuario.
+
+- **`pages_user_locale`**: Permite que la aplicación acceda al idioma de un usuario.
+
+- **`pages_user_timezone`**: Permite que la aplicacción acceda a la zona horaria de un usuario.
